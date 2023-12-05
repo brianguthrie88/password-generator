@@ -22,7 +22,6 @@ Html, CSS, JavaScript
 For any questions, please reach out by creating an issue.
 
 ## Deployment Section
-
-
+https://brianguthrie88.github.io/password-generator/
 
 ![ScreenShot](assets/images/generate-password-app.png)
